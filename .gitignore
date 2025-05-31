@@ -1,0 +1,15 @@
+*.o
+*.a
+*.so
+*.exe
+*.out
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build*/
+*.log
+*.swp
+*.png
+*.jpg
+*.mp4
